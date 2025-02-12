@@ -11,7 +11,7 @@ yy.mm.dd 세부 주제 2 작성 (상세 내역 링크)
 
 yy.mm.dd 세부 주제 1 작성 ([상세 내역 링크](https://github.com/kakao-cloud-edu-5/til-template/blob/main/Jan/yyyy-mm-dd))
 
-### [2월 듈째주, 3주차] : 도커
+### [2월 둘째주, 3주차] : 도커
 
 25.02.10 도커 (https://github.com/100-hours-a-week/evan.bang-til/blob/main/Feb/2025-02-10.md)
 
